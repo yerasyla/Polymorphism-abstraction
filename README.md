@@ -1,4 +1,4 @@
-# Polymorphism-abstraction
+# Example 1: Polymorphism-abstraction
 
 A company pays its employees on a weekly basis. The
 employees are of four types: SalariedEmployee are paid a
